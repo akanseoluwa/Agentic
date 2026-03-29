@@ -1,6 +1,6 @@
 # api-server
 
-Internal API service powering the RoiAI platform. Handles authentication, webhook routing, and core business logic.
+Internal API service for the Agentic platform. Handles authentication, webhook routing, and core business logic.
 
 ## Quick Start
 
@@ -15,7 +15,7 @@ Internal API service powering the RoiAI platform. Handles authentication, webhoo
 
 1. Clone the repository:
    ```bash
-   git clone git@github.com:akanseoluwa/RoiAITest.git
+   git clone git@github.com:akanseoluwa/Agentic.git
    cd RoiAITest
    ```
 
